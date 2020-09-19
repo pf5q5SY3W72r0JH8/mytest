@@ -1,0 +1,14 @@
+{
+    "name": "v2-heroku",
+    "description": "deploy ccav on heroku",
+    "keywords": ["ccav"],
+    "env": {
+        "UUID": {
+            "description": "ccav UUID",
+            "value": "7a80966e-fa5f-11ea-adc1-0242ac120002"        
+        }
+    },
+    "website": "https://ccav.sha",
+    "repository": "https://github.com/",
+    "stack": "container"
+}
